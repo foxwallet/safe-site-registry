@@ -113,5 +113,20 @@
     "url": "https://www.orbiter.finance/",
     "title": "Orbiter Finance",
     "icon": "https://www.orbiter.finance/favicon.ico"
+  },
+  {
+    "url": "https://opensea.io/",
+    "title": "OpenSea",
+    "icon": "https://opensea.io/static/images/favicon/favicon.ico"
+  },
+  {
+    "url": "https://www.fbpay.cc/mobile/buy?platform=foxwallet",
+    "title": "FBPay",
+    "icon": "https://www.fbpay.cc/favicon.ico"
+  },
+  {
+    "url": "https://jup.ag/",
+    "title": "Jupiter",
+    "icon": "https://jup.ag/favicon-96x96.png"
   }
 ]
