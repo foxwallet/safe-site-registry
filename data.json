@@ -38,5 +38,80 @@
     "url": "https://app.compound.finance",
     "title": "Compound",
     "icon": "https://v3-app.compound.finance/favicon.ico"
+  },
+  {
+    "url": "https://lumoz.org/",
+    "title": "Lumoz",
+    "icon": "https://pbs.twimg.com/profile_images/1608632586137395201/Khrl4_wJ_400x400.jpg"
+  },
+  {
+    "url": "https://claims.eigenfoundation.org/",
+    "title": "EignLayer Foundation",
+    "icon": "https://claims.eigenfoundation.org/favicon.ico"
+  },
+  {
+    "url": "https://app.eigenlayer.xyz/  ",
+    "title": "EignLayer",
+    "icon": "https://app.eigenlayer.xyz/favicon.ico"
+  },
+  {
+    "url": "https://olavm.org/",
+    "title": "Ola",
+    "icon": "https://olavm.org/favicon.ico"
+  },
+  {
+    "url": "https://app.symbiotic.fi/",
+    "title": "Symbiotic",
+    "icon": "https://app.symbiotic.fi/favicon.ico"
+  },
+  {
+    "url": "https://claims.aethir.com/",
+    "title": "Aethir",
+    "icon": "https://claims.aethir.com/favicon.ico"
+  },
+  {
+    "url": "https://app.alphaswap.pro/",
+    "title": "AlphaSwap",
+    "icon": "https://app.alphaswap.pro/favicon.png"
+  },
+  {
+    "url": "https://unisat.io/",
+    "title": "UniSat",
+    "icon": "https://next-cdn.unisat.io/_/256/img/favicon.ico"
+  },
+  {
+    "url": "https://app.gobob.xyz/",
+    "title": "BOB",
+    "icon": "https://uploads-ssl.webflow.com/64e85c2f3609488b3ed725f4/64ecae53ef4b561482f1c49f_bob1.jpg"
+  },
+  {
+    "url": "https://zkbase.app/",
+    "title": "ZKSpace",
+    "icon": "https://s.zks.app/app/zkb-favicon-black.ico"
+  },
+  {
+    "url": "https://space.id?inviter=0x8eB53CEeB1Bb263cA2ef95d791Ef31F91536A146",
+    "title": "SPACE ID",
+    "icon": "https://static.space.id/favicon.ico"
+  },
+  {
+    "url": "https://stake.zircuit.com/?ref=yzwcqc",
+    "title": "Zircuit",
+    "icon": "https://stake.zircuit.com/favicon.ico"
+  },
+  {
+    "url": "https://app.swellnetwork.io/?ref=0x8eB53CEeB1Bb263cA2ef95d791Ef31F91536A146",
+    "title": "Swell",
+    "icon": "https://app.swellnetwork.io/favicon.ico"
+  },
+  {
+    "url": "https://trade.bluefin.io/",
+    "title": "Bluefin Exchange",
+    "icon": "https://trade.bluefin.io/favicon.ico?nocache=02"
+  },
+  {
+    "url": "https://www.orbiter.finance/",
+    "title": "Orbiter Finance",
+    "icon": "https://www.orbiter.finance/favicon.ico"
   }
 ]

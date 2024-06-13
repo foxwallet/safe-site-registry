@@ -16,10 +16,12 @@ def add(url: str):
         charset = content_type.split('charset=')[-1]
     else:
         charset = 'utf-8'
-
     resp.encoding = charset
+
     soup = BeautifulSoup(resp.text, 'html.parser')
     title = soup.find('title').text
+    title = title.split(" - ")[0].strip()
+    title = title.split(" | ")[0].strip()
     icon_link = soup.find('link', rel=lambda x: x and 'icon' in x.lower())
     if icon_link and 'href' in icon_link.attrs:
         icon_url = icon_link['href']
