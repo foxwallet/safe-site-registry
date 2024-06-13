@@ -8,5 +8,35 @@
     "title": "ZK Nation",
     "url": "https://zknation.io/",
     "icon": "https://zknation.io/favicon.ico"
+  },
+  {
+    "title": "TaskOn",
+    "url": "https://taskon.xyz/",
+    "icon": "https://taskon.xyz/favicon.png"
+  },
+  {
+    "title": "Galxe",
+    "url": "https://app.galxe.com/",
+    "icon": "https://framerusercontent.com/images/2S6TG0kYEyR3yjYzcrVMN62oZhk.png"
+  },
+  {
+    "url": "https://etherscan.io/",
+    "title": "Etherscan",
+    "icon": "https://etherscan.io/images/favicon3-light.ico"
+  },
+  {
+    "url": "https://dydx.exchange/",
+    "title": "dYdX",
+    "icon": "https://dydx.exchange/meta/apple-icon-57x57.png"
+  },
+  {
+    "url": "https://app.aave.com/",
+    "title": "Aave",
+    "icon": "https://app.aave.com/aave_icon180.png"
+  },
+  {
+    "url": "https://app.compound.finance",
+    "title": "Compound",
+    "icon": "https://v3-app.compound.finance/favicon.ico"
   }
 ]
