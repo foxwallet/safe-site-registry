@@ -161,7 +161,12 @@
   },
   {
     "url": "https://app.fns.space/",
-    "title": "FNS APP",
+    "title": "FNS",
     "icon": "https://app.fns.space/favicon.ico"
+  },
+  {
+    "url": "https://node.lumoz.org/",
+    "title": "Lumoz | zkVerfier Nodes",
+    "icon": "https://node.lumoz.org/favicon.ico"
   }
 ]
