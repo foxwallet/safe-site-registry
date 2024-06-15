@@ -128,5 +128,40 @@
     "url": "https://jup.ag/",
     "title": "Jupiter",
     "icon": "https://jup.ag/favicon-96x96.png"
+  },
+  {
+    "url": "https://dapp.minefi.io/",
+    "title": "MineFi",
+    "icon": "https://dapp.minefi.io/favicon.ico"
+  },
+  {
+    "url": "https://sft.network/",
+    "title": "SFT Protocol",
+    "icon": "https://pbs.twimg.com/profile_images/1744970189438107648/tv4JqESz_400x400.jpg"
+  },
+  {
+    "url": "https://www.glif.io/",
+    "title": "GLIF",
+    "icon": "https://www.glif.io/favicon-16x16.png"
+  },
+  {
+    "url": "https://blast.io/",
+    "title": "Blast",
+    "icon": "https://blast.io/favicon.svg"
+  },
+  {
+    "url": "https://m.ave.ai",
+    "title": "Ave.ai",
+    "icon": "https://m.ave.ai/favicon.ico"
+  },
+  {
+    "url": "https://zkfair.io/",
+    "title": "ZKFair",
+    "icon": ""
+  },
+  {
+    "url": "https://app.fns.space/",
+    "title": "FNS APP",
+    "icon": "https://app.fns.space/favicon.ico"
   }
 ]

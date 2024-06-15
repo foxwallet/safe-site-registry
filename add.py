@@ -5,11 +5,20 @@ from bs4 import BeautifulSoup
 import urllib.parse
 
 def add(url: str):
+    with open("./data.json", "r") as reader:
+        data: list = json.load(reader)
+    urls = set()
+    for d in data:
+        urls.add(d["url"])
+    if url in urls:
+         if input("url already in dataset, enter y to continue:").strip() != "y":
+             exit()
+
     proxies = {
         "http": "http://127.0.0.1:7890",
         "https": "http://127.0.0.1:7890"
     }
-    resp = requests.get(url, proxies=proxies)
+    resp = requests.get(url, proxies=proxies, timeout=10)
 
     content_type = resp.headers.get('Content-Type')
     if 'charset' in content_type:
@@ -26,8 +35,10 @@ def add(url: str):
     if icon_link and 'href' in icon_link.attrs:
         icon_url = icon_link['href']
         icon_url = urllib.parse.urljoin(url, icon_url)
+        if len(icon_url) > 100:
+            icon_url = ""
     else:
-        icon_url = ""
+        icon_url = urllib.parse.urljoin(url, "/favicon.ico")
     
     info = {
         "url": url,
@@ -36,8 +47,6 @@ def add(url: str):
     }
     print(info)
 
-    with open("./data.json", "r") as reader:
-        data: list = json.load(reader)
     data.append(info)
     with open("./data.json", "w") as writer:
         json.dump(data, writer, indent=2)
