@@ -168,5 +168,55 @@
     "url": "https://node.lumoz.org/",
     "title": "Lumoz | zkVerfier Nodes",
     "icon": "https://node.lumoz.org/favicon.ico"
+  },
+  {
+    "url": "https://unicross.xyz/market",
+    "title": "UniCross",
+    "icon": "https://unicross.xyz/favicon.ico"
+  },
+  {
+    "url": "https://magiceden.io/",
+    "title": "Magic Eden",
+    "icon": "https://magiceden.io/img/favicon/android-chrome-192x192.png"
+  },
+  {
+    "url": "https://gmgn.ai/?chain=eth",
+    "title": "GMGN",
+    "icon": "https://gmgn.ai/static/favicon2.ico"
+  },
+  {
+    "url": "https://app.layer3.xyz",
+    "title": "Layer3",
+    "icon": "https://app.layer3.xyz/favicon.ico"
+  },
+  {
+    "url": "https://app.parcl.co/",
+    "title": "Parcl",
+    "icon": "https://app.parcl.co/favicon.png"
+  },
+  {
+    "url": "https://openstamp.io/",
+    "title": "OpenStamp",
+    "icon": "https://openstamp.io/favicon.ico"
+  },
+  {
+    "url": "https://app.across.to/bridge",
+    "title": "Across Protocol",
+    "icon": "https://app.across.to/favicon.svg"
+  },
+  {
+    "url": "https://zapper.xyz/",
+    "title": "Zapper",
+    "icon": "https://zapper.xyz/favicon.ico"
+  },
+  {
+    "url": "https://chainlist.org/",
+    "title": "ChainList",
+    "icon": "https://chainlist.org/favicon.ico"
+  },
+  {
+    "url": "https://revoke.cash/",
+    "title": "Revoke.Cash",
+    "icon": "https://revoke.cash/favicon.ico"
   }
 ]
