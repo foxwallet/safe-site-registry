@@ -243,5 +243,15 @@
     "url": "https://onramp.money/main/buy/?appId=482911",
     "title": "Onramp Money",
     "icon": "https://onramp.money/assets/favicon.png"
+  },
+  {
+    "url": "https://dao.mystiko.network/airdrops",
+    "title": "Mystiko Airdrop",
+    "icon": "https://dao.mystiko.network/favicon.ico"
+  },
+  {
+    "url": "https://jumper.exchange/",
+    "title": "Jumper",
+    "icon": "https://jumper.exchange/apple-icon.png?f0c71e923f14d983"
   }
 ]
