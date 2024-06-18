@@ -218,5 +218,10 @@
     "url": "https://revoke.cash/",
     "title": "Revoke.Cash",
     "icon": "https://revoke.cash/favicon.ico"
+  },
+  {
+    "url": "https://minefi.io/",
+    "title": "MineFi",
+    "icon": "https://minefi.io/favicon.ico"
   }
 ]
