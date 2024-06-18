@@ -223,5 +223,25 @@
     "url": "https://minefi.io/",
     "title": "MineFi",
     "icon": "https://minefi.io/favicon.ico"
+  },
+  {
+    "url": "https://galaxy.exchange/swap?affiliate=fox-wallet",
+    "title": "Galaxy Exchange",
+    "icon": "https://galaxy.exchange/favicon.ico"
+  },
+  {
+    "url": "https://swing.xyz/",
+    "title": "Swing",
+    "icon": "https://swing.xyz/favicon.ico"
+  },
+  {
+    "url": "https://aleo123.io",
+    "title": "Aleo123",
+    "icon": "https://aleo123.io/assets/favicon1.png"
+  },
+  {
+    "url": "https://onramp.money/main/buy/?appId=482911",
+    "title": "Onramp Money",
+    "icon": "https://onramp.money/assets/favicon.png"
   }
 ]
