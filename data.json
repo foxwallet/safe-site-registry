@@ -253,5 +253,20 @@
     "url": "https://jumper.exchange/",
     "title": "Jumper",
     "icon": "https://jumper.exchange/apple-icon.png?f0c71e923f14d983"
+  },
+  {
+    "url": "https://pump.fun/board",
+    "title": "Pump",
+    "icon": "https://pump.fun/icon.png?c2a22dd8671140c9"
+  },
+  {
+    "url": "https://www.layerzero.foundation",
+    "title": "LayerZero",
+    "icon": "https://www.layerzero.foundation/apple-touch-icon.png"
+  },
+  {
+    "url": "https://google.com",
+    "title": "Google",
+    "icon": "https://google.com/favicon.ico"
   }
 ]
