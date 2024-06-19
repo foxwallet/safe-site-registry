@@ -157,7 +157,7 @@
   {
     "url": "https://zkfair.io/",
     "title": "ZKFair",
-    "icon": ""
+    "icon": "https://zkfair.io/favicon.ico"
   },
   {
     "url": "https://app.fns.space/",
@@ -268,5 +268,35 @@
     "url": "https://google.com",
     "title": "Google",
     "icon": "https://google.com/favicon.ico"
+  },
+  {
+    "url": "https://stake.everstake.one/",
+    "title": "Everstake",
+    "icon": "https://stake.everstake.one/favicon.svg"
+  },
+  {
+    "url": "https://looksrare.org",
+    "title": "LooksRare",
+    "icon": "https://looksrare.org/favicon.ico"
+  },
+  {
+    "url": "https://x2y2.io",
+    "title": "X2Y2",
+    "icon": "https://x2y2.io/favicon.ico"
+  },
+  {
+    "url": "https://blur.io",
+    "title": "Blur",
+    "icon": "https://blur.io/favicons/16.png"
+  },
+  {
+    "url": "https://tofunft.com",
+    "title": "tofuNFT",
+    "icon": "https://tofunft.com/favicon.ico"
+  },
+  {
+    "url": "https://element.market",
+    "title": "Element",
+    "icon": "https://element.market/favicon.ico"
   }
 ]
