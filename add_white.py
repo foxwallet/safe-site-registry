@@ -36,7 +36,7 @@ def add(url: str):
         icon_url = icon_link['href']
         icon_url = urllib.parse.urljoin(url, icon_url)
         if len(icon_url) > 100:
-            icon_url = ""
+            icon_url = urllib.parse.urljoin(url, "/favicon.ico")
     else:
         icon_url = urllib.parse.urljoin(url, "/favicon.ico")
     

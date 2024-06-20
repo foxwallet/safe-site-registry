@@ -298,5 +298,20 @@
     "url": "https://element.market",
     "title": "Element",
     "icon": "https://element.market/favicon.ico"
+  },
+  {
+    "url": "https://app.ebisusbay.com/",
+    "title": "Ebisu's Bay Marketplace",
+    "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
+  },
+  {
+    "url": "https://www.ebisusbay.com/",
+    "title": "Ebisusbay",
+    "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
+  },
+  {
+    "url": "https://ebisusbay.com/",
+    "title": "Ebisusbay",
+    "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
   }
 ]
