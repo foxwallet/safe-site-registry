@@ -313,5 +313,10 @@
     "url": "https://ebisusbay.com/",
     "title": "Ebisusbay",
     "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
+  },
+  {
+    "url": "https://lista.org/",
+    "title": "ListaDAO",
+    "icon": "https://lista.org/favicon/lista_favicon_32x32.ico"
   }
 ]
