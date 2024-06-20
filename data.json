@@ -318,5 +318,10 @@
     "url": "https://lista.org/",
     "title": "ListaDAO",
     "icon": "https://lista.org/favicon/lista_favicon_32x32.ico"
+  },
+  {
+    "url": "https://www.mintswap.finance/",
+    "title": "MintSwap",
+    "icon": "https://www.mintswap.finance/favicon.ico"
   }
 ]
