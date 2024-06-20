@@ -323,5 +323,10 @@
     "url": "https://www.mintswap.finance/",
     "title": "MintSwap",
     "icon": "https://www.mintswap.finance/favicon.ico"
+  },
+  {
+    "url": "https://ao.arweave.dev/",
+    "title": "AO",
+    "icon": "https://ao.arweave.dev/favicon.svg"
   }
 ]
