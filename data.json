@@ -328,5 +328,40 @@
     "url": "https://ao.arweave.dev/",
     "title": "AO",
     "icon": "https://ao.arweave.dev/favicon.svg"
+  },
+  {
+    "url": "https://matcha.xyz/",
+    "title": "Matcha",
+    "icon": "https://matcha.xyz/favicon.ico"
+  },
+  {
+    "url": "https://app.logx.trade/",
+    "title": "LogX",
+    "icon": "https://app.logx.trade/logx-seo.svg"
+  },
+  {
+    "url": "https://blast.io",
+    "title": "Blast",
+    "icon": "https://blast.io/favicon.svg"
+  },
+  {
+    "url": "https://syncswap.xyz/",
+    "title": "SyncSwap",
+    "icon": "https://syncswap.xyz/favicon.ico"
+  },
+  {
+    "url": "https://bridge.kccpad.io/",
+    "title": "KCCPad Bridge",
+    "icon": "https://bridge.kccpad.io/favicon.ico"
+  },
+  {
+    "url": "https://ave.ai/",
+    "title": "Ave.ai",
+    "icon": "https://ave.ai/favicon.ico"
+  },
+  {
+    "url": "https://pancakeswap.finance/",
+    "title": "Pancake Swap",
+    "icon": "https://pancakeswap.finance/favicon.ico"
   }
 ]
