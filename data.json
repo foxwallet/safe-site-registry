@@ -363,5 +363,10 @@
     "url": "https://pancakeswap.finance/",
     "title": "Pancake Swap",
     "icon": "https://pancakeswap.finance/favicon.ico"
+  },
+  {
+    "url": "https://native.filet.finance/",
+    "title": "Filet",
+    "icon": "https://native.filet.finance/favicon.ico"
   }
 ]
