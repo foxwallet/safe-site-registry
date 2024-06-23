@@ -368,5 +368,25 @@
     "url": "https://native.filet.finance/",
     "title": "Filet",
     "icon": "https://native.filet.finance/favicon.ico"
+  },
+  {
+    "url": "https://app.getgrass.io/",
+    "title": "Grass",
+    "icon": "https://app.getgrass.io/favicon.png"
+  },
+  {
+    "url": "https://app.rhino.fi/",
+    "title": "Rhino",
+    "icon": "https://app.rhino.fi/apple-touch-icon.png"
+  },
+  {
+    "url": "https://www.plumenetwork.xyz/",
+    "title": "Plume Network",
+    "icon": "https://www.plumenetwork.xyz/favicon.ico"
+  },
+  {
+    "url": "https://defillama.com",
+    "title": "DeFiLlama",
+    "icon": "https://swap.defillama.com/favicon.ico"
   }
 ]

@@ -2,7 +2,7 @@ import sys
 import requests
 import json
 from bs4 import BeautifulSoup
-import urllib.parse
+from urllib.parse import urlparse, urljoin
 
 def add(url: str):
     with open("./data.json", "r") as reader:
@@ -28,17 +28,22 @@ def add(url: str):
     resp.encoding = charset
 
     soup = BeautifulSoup(resp.text, 'html.parser')
-    title = soup.find('title').text
-    title = title.split(" - ")[0].strip()
-    title = title.split(" | ")[0].strip()
+    title = soup.find('title')
+    if title:
+        title = title.text
+        title = title.split(" - ")[0].strip()
+        title = title.split(" | ")[0].strip()
+    else:
+        title = urlparse(url).netloc
+    
     icon_link = soup.find('link', rel=lambda x: x and 'icon' in x.lower())
     if icon_link and 'href' in icon_link.attrs:
         icon_url = icon_link['href']
-        icon_url = urllib.parse.urljoin(url, icon_url)
+        icon_url = urljoin(url, icon_url)
         if len(icon_url) > 100:
-            icon_url = urllib.parse.urljoin(url, "/favicon.ico")
+            icon_url = urljoin(url, "/favicon.ico")
     else:
-        icon_url = urllib.parse.urljoin(url, "/favicon.ico")
+        icon_url = urljoin(url, "/favicon.ico")
     
     info = {
         "url": url,
