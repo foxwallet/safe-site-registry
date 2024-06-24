@@ -413,5 +413,10 @@
     "url": "https://app.buildonhybrid.com/",
     "title": "Hybrid",
     "icon": "https://app.buildonhybrid.com/favicon.png"
+  },
+  {
+    "url": "https://adamdefi.io/swap",
+    "title": "AdamSwap",
+    "icon": "https://adamdefi.io/favicon.ico"
   }
 ]
