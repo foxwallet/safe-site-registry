@@ -388,5 +388,30 @@
     "url": "https://defillama.com",
     "title": "DeFiLlama",
     "icon": "https://swap.defillama.com/favicon.ico"
+  },
+  {
+    "url": "https://www.qomswap.com",
+    "title": "QomSwap",
+    "icon": "https://www.qomswap.com/favicon.ico"
+  },
+  {
+    "url": "https://faucets.chain.link/",
+    "title": "ChainLink Faucet",
+    "icon": "https://smartcontract.imgix.net/chainlink.ico?auto=compress%2Cformat"
+  },
+  {
+    "url": "https://dapp.vip3.io/",
+    "title": "VIP3",
+    "icon": "https://dapp.vip3.io/vip3.svg"
+  },
+  {
+    "url": "https://quest.buildonhybrid.com",
+    "title": "Hybrid Quest",
+    "icon": "https://quest.buildonhybrid.com/Hybrid Favicons/apple-touch-icon.png"
+  },
+  {
+    "url": "https://app.buildonhybrid.com/",
+    "title": "Hybrid",
+    "icon": "https://app.buildonhybrid.com/favicon.png"
   }
 ]
