@@ -418,5 +418,25 @@
     "url": "https://adamdefi.io/swap",
     "title": "AdamSwap",
     "icon": "https://adamdefi.io/favicon.ico"
+  },
+  {
+    "url": "https://bartio.bex.berachain.com",
+    "title": "Bartio BEX",
+    "icon": "https://bartio.bex.berachain.com/icon.svg?3d77bdf18adacc49"
+  },
+  {
+    "url": "https://cookie.community",
+    "title": "Cookie Community",
+    "icon": "https://cookie.community/favicon.ico"
+  },
+  {
+    "url": "https://stake.coredao.org",
+    "title": "Core Stake",
+    "icon": "https://stake.coredao.org/favicon.ico"
+  },
+  {
+    "url": "https://tunachain.io/",
+    "title": "Tuna Chain",
+    "icon": "https://tunachain.io/favicon.svg"
   }
 ]
