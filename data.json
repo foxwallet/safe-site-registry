@@ -443,5 +443,10 @@
     "url": "https://faucet.circle.com/",
     "title": "Testnet Faucet",
     "icon": "https://faucet.circle.com/favicon.ico"
+  },
+  {
+    "url": "https://synthetik.app/",
+    "title": "Synthetik",
+    "icon": "https://framerusercontent.com/images/FGx5bWYwF85G63ZCkvz4xPiFBU.png"
   }
 ]
