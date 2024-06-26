@@ -448,5 +448,15 @@
     "url": "https://synthetik.app/",
     "title": "Synthetik",
     "icon": "https://framerusercontent.com/images/FGx5bWYwF85G63ZCkvz4xPiFBU.png"
+  },
+  {
+    "url": "https://app.aevo.xyz/",
+    "title": "Aevo",
+    "icon": "https://app.aevo.xyz/assets/logo/favicon.svg"
+  },
+  {
+    "url": "https://airdrop.blast.io/",
+    "title": "Blast Airdrop",
+    "icon": "https://airdrop.blast.io/favicon.svg"
   }
 ]
