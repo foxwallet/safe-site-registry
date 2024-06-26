@@ -438,5 +438,10 @@
     "url": "https://tunachain.io/",
     "title": "Tuna Chain",
     "icon": "https://tunachain.io/favicon.svg"
+  },
+  {
+    "url": "https://faucet.circle.com/",
+    "title": "Testnet Faucet",
+    "icon": "https://faucet.circle.com/favicon.ico"
   }
 ]
