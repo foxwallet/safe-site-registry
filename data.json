@@ -493,5 +493,10 @@
     "url": "https://dottaiko.me/",
     "title": "DotTaiko Domains",
     "icon": "https://dottaiko.me/meta/apple-icon-57x57.png"
+  },
+  {
+    "url": "https://app.solv.finance/",
+    "title": "Solv App",
+    "icon": "https://app.solv.finance/favicon.ico"
   }
 ]
