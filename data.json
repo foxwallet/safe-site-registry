@@ -478,5 +478,20 @@
     "url": "https://faucet.quicknode.com",
     "title": "Multi-Chain Faucet by QuickNode",
     "icon": "https://faucet.quicknode.com/favicon.png"
+  },
+  {
+    "url": "https://zealy.io/",
+    "title": "Zealy",
+    "icon": "https://zealy.io/nstatic/favicon-16x16.png"
+  },
+  {
+    "url": "https://www.aryze.io/",
+    "title": "ARYZE",
+    "icon": "https://www.aryze.io/favicon.ico"
+  },
+  {
+    "url": "https://dottaiko.me/",
+    "title": "DotTaiko Domains",
+    "icon": "https://dottaiko.me/meta/apple-icon-57x57.png"
   }
 ]
