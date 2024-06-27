@@ -458,5 +458,25 @@
     "url": "https://airdrop.blast.io/",
     "title": "Blast Airdrop",
     "icon": "https://airdrop.blast.io/favicon.svg"
+  },
+  {
+    "url": "https://faucet.plumenetwork.xyz/",
+    "title": "Plume Network Faucet",
+    "icon": "https://faucet.plumenetwork.xyz/favicon.ico"
+  },
+  {
+    "url": "https://testnet.zulunetwork.io/bridge",
+    "title": "Zulu Testnet Bridge",
+    "icon": "https://testnet.zulunetwork.io/images/favicon.ico"
+  },
+  {
+    "url": "https://miles.plumenetwork.xyz/mint",
+    "title": "Plume Lounge",
+    "icon": "https://miles.plumenetwork.xyz/favicon.ico"
+  },
+  {
+    "url": "https://faucet.quicknode.com",
+    "title": "Multi-Chain Faucet by QuickNode",
+    "icon": "https://faucet.quicknode.com/favicon.png"
   }
 ]
