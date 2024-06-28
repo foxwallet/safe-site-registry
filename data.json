@@ -498,5 +498,10 @@
     "url": "https://app.solv.finance/",
     "title": "Solv App",
     "icon": "https://app.solv.finance/favicon.ico"
+  },
+  {
+    "url": "https://www.rwax.art/",
+    "title": "RWAX Dao",
+    "icon": "https://www.rwax.art/favicon.png"
   }
 ]
