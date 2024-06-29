@@ -500,8 +500,18 @@
     "icon": "https://app.solv.finance/favicon.ico"
   },
   {
-    "url": "https://www.rwax.art/",
+    "url": "https://sushi.com",
+    "title": "SushiSwap",
+    "icon": "https://www.sushi.com/apple-touch-icon.png?v=1"
+  },
+  {
+    "url": "https://rwax.art",
     "title": "RWAX Dao",
-    "icon": "https://www.rwax.art/favicon.png"
+    "icon": "https://rwax.art/favicon.png"
+  },
+  {
+    "url": "https://app.questn.com/",
+    "title": "QuestN",
+    "icon": "https://app.questn.com/favicon.ico"
   }
 ]
