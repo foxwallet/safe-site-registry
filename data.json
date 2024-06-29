@@ -140,7 +140,7 @@
     "icon": "https://pbs.twimg.com/profile_images/1744970189438107648/tv4JqESz_400x400.jpg"
   },
   {
-    "url": "https://www.glif.io/",
+    "url": "https://glif.io/",
     "title": "GLIF",
     "icon": "https://www.glif.io/favicon-16x16.png"
   },
@@ -260,7 +260,7 @@
     "icon": "https://pump.fun/icon.png?c2a22dd8671140c9"
   },
   {
-    "url": "https://www.layerzero.foundation",
+    "url": "https://layerzero.foundation",
     "title": "LayerZero",
     "icon": "https://www.layerzero.foundation/apple-touch-icon.png"
   },
@@ -305,11 +305,6 @@
     "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
   },
   {
-    "url": "https://www.ebisusbay.com/",
-    "title": "Ebisusbay",
-    "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
-  },
-  {
     "url": "https://ebisusbay.com/",
     "title": "Ebisusbay",
     "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
@@ -320,7 +315,7 @@
     "icon": "https://lista.org/favicon/lista_favicon_32x32.ico"
   },
   {
-    "url": "https://www.mintswap.finance/",
+    "url": "https://mintswap.finance/",
     "title": "MintSwap",
     "icon": "https://www.mintswap.finance/favicon.ico"
   },
@@ -380,7 +375,7 @@
     "icon": "https://app.rhino.fi/apple-touch-icon.png"
   },
   {
-    "url": "https://www.plumenetwork.xyz/",
+    "url": "https://plumenetwork.xyz/",
     "title": "Plume Network",
     "icon": "https://www.plumenetwork.xyz/favicon.ico"
   },
@@ -390,7 +385,7 @@
     "icon": "https://swap.defillama.com/favicon.ico"
   },
   {
-    "url": "https://www.qomswap.com",
+    "url": "https://qomswap.com",
     "title": "QomSwap",
     "icon": "https://www.qomswap.com/favicon.ico"
   },
@@ -513,5 +508,10 @@
     "url": "https://app.questn.com/",
     "title": "QuestN",
     "icon": "https://app.questn.com/favicon.ico"
+  },
+  {
+    "url": "https://warpcast.com/",
+    "title": "Warpcast",
+    "icon": "https://warpcast.com/favicon.png"
   }
 ]
