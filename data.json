@@ -513,5 +513,20 @@
     "url": "https://warpcast.com/",
     "title": "Warpcast",
     "icon": "https://warpcast.com/favicon.png"
+  },
+  {
+    "url": "https://debank.com/",
+    "title": "DeBank",
+    "icon": "https://assets.debank.com/favicon.ico"
+  },
+  {
+    "url": "https://portal.flare.network",
+    "title": "Flare Portal",
+    "icon": "https://portal.flare.network/flare_secondary_icon_only.svg"
+  },
+  {
+    "url": "https://pioneer.particle.network/",
+    "title": "Particle Pioneer",
+    "icon": "https://pioneer.particle.network/favicon.ico"
   }
 ]
