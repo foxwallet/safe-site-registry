@@ -528,5 +528,20 @@
     "url": "https://pioneer.particle.network/",
     "title": "Particle Pioneer",
     "icon": "https://pioneer.particle.network/favicon.ico"
+  },
+  {
+    "url": "https://app.gnosispay.com/",
+    "title": "Gnosis Pay",
+    "icon": "https://app.gnosispay.com/icon.png?98c9df86ff003726"
+  },
+  {
+    "url": "https://star.legend.game/",
+    "title": "Legend Game",
+    "icon": "https://star.legend.game/favicon.svg"
+  },
+  {
+    "url": "https://zkbridge.com/",
+    "title": "zkBridge",
+    "icon": "https://www.zkbridge.com/favicon.png"
   }
 ]
