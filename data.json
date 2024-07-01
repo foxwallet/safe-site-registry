@@ -2,7 +2,8 @@
   {
     "title": "Ordinal Genesis",
     "url": "https://rune.ordinalgenesis.xyz/",
-    "icon": "https://rune.ordinalgenesis.xyz/images/Logo.png"
+    "icon": "https://rune.ordinalgenesis.xyz/images/Logo.png",
+    "tag": "expandable"
   },
   {
     "title": "ZK Nation",
@@ -17,7 +18,8 @@
   {
     "title": "Galxe",
     "url": "https://app.galxe.com/",
-    "icon": "https://framerusercontent.com/images/2S6TG0kYEyR3yjYzcrVMN62oZhk.png"
+    "icon": "https://framerusercontent.com/images/2S6TG0kYEyR3yjYzcrVMN62oZhk.png",
+    "tag": "expandable"
   },
   {
     "url": "https://etherscan.io/",
@@ -32,12 +34,14 @@
   {
     "url": "https://app.aave.com/",
     "title": "Aave",
-    "icon": "https://app.aave.com/aave_icon180.png"
+    "icon": "https://app.aave.com/aave_icon180.png",
+    "tag": "expandable"
   },
   {
     "url": "https://app.compound.finance",
     "title": "Compound",
-    "icon": "https://v3-app.compound.finance/favicon.ico"
+    "icon": "https://v3-app.compound.finance/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://lumoz.org/",
@@ -47,12 +51,14 @@
   {
     "url": "https://claims.eigenfoundation.org/",
     "title": "EigenLayer Foundation",
-    "icon": "https://claims.eigenfoundation.org/favicon.ico"
+    "icon": "https://claims.eigenfoundation.org/favicon.ico",
+    "tag": "expandable"
   },
   {
-    "url": "https://app.eigenlayer.xyz/  ",
+    "url": "https://app.eigenlayer.xyz/",
     "title": "EigenLayer",
-    "icon": "https://app.eigenlayer.xyz/favicon.ico"
+    "icon": "https://app.eigenlayer.xyz/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://olavm.org/",
@@ -62,17 +68,20 @@
   {
     "url": "https://app.symbiotic.fi/",
     "title": "Symbiotic",
-    "icon": "https://app.symbiotic.fi/favicon.ico"
+    "icon": "https://app.symbiotic.fi/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://claims.aethir.com/",
     "title": "Aethir",
-    "icon": "https://claims.aethir.com/favicon.ico"
+    "icon": "https://claims.aethir.com/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://app.alphaswap.pro/",
     "title": "AlphaSwap",
-    "icon": "https://app.alphaswap.pro/favicon.png"
+    "icon": "https://app.alphaswap.pro/favicon.png",
+    "tag": "expandable"
   },
   {
     "url": "https://unisat.io/",
@@ -82,7 +91,8 @@
   {
     "url": "https://app.gobob.xyz/",
     "title": "BOB",
-    "icon": "https://uploads-ssl.webflow.com/64e85c2f3609488b3ed725f4/64ecae53ef4b561482f1c49f_bob1.jpg"
+    "icon": "https://uploads-ssl.webflow.com/64e85c2f3609488b3ed725f4/64ecae53ef4b561482f1c49f_bob1.jpg",
+    "tag": "expandable"
   },
   {
     "url": "https://zkbase.app/",
@@ -97,20 +107,23 @@
   {
     "url": "https://stake.zircuit.com/?ref=yzwcqc",
     "title": "Zircuit",
-    "icon": "https://stake.zircuit.com/favicon.ico"
+    "icon": "https://stake.zircuit.com/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://app.swellnetwork.io/?ref=0x8eB53CEeB1Bb263cA2ef95d791Ef31F91536A146",
     "title": "Swell",
-    "icon": "https://app.swellnetwork.io/favicon.ico"
+    "icon": "https://app.swellnetwork.io/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://trade.bluefin.io/",
     "title": "Bluefin Exchange",
-    "icon": "https://trade.bluefin.io/favicon.ico?nocache=02"
+    "icon": "https://trade.bluefin.io/favicon.ico?nocache=02",
+    "tag": "expandable"
   },
   {
-    "url": "https://www.orbiter.finance/",
+    "url": "https://orbiter.finance/",
     "title": "Orbiter Finance",
     "icon": "https://www.orbiter.finance/favicon.ico"
   },
@@ -122,7 +135,8 @@
   {
     "url": "https://www.fbpay.cc/mobile/buy?platform=foxwallet",
     "title": "FBPay",
-    "icon": "https://www.fbpay.cc/favicon.ico"
+    "icon": "https://www.fbpay.cc/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://jup.ag/",
@@ -132,7 +146,8 @@
   {
     "url": "https://dapp.minefi.io/",
     "title": "MineFi",
-    "icon": "https://dapp.minefi.io/favicon.ico"
+    "icon": "https://dapp.minefi.io/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://sft.network/",
@@ -152,7 +167,8 @@
   {
     "url": "https://m.ave.ai",
     "title": "Ave.ai",
-    "icon": "https://m.ave.ai/favicon.ico"
+    "icon": "https://m.ave.ai/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://zkfair.io/",
@@ -162,12 +178,14 @@
   {
     "url": "https://app.fns.space/",
     "title": "FNS",
-    "icon": "https://app.fns.space/favicon.ico"
+    "icon": "https://app.fns.space/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://node.lumoz.org/",
     "title": "Lumoz | zkVerfier Nodes",
-    "icon": "https://node.lumoz.org/favicon.ico"
+    "icon": "https://node.lumoz.org/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://unicross.xyz/market",
@@ -187,12 +205,14 @@
   {
     "url": "https://app.layer3.xyz",
     "title": "Layer3",
-    "icon": "https://app.layer3.xyz/favicon.ico"
+    "icon": "https://app.layer3.xyz/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://app.parcl.co/",
     "title": "Parcl",
-    "icon": "https://app.parcl.co/favicon.png"
+    "icon": "https://app.parcl.co/favicon.png",
+    "tag": "expandable"
   },
   {
     "url": "https://openstamp.io/",
@@ -202,7 +222,8 @@
   {
     "url": "https://app.across.to/bridge",
     "title": "Across Protocol",
-    "icon": "https://app.across.to/favicon.svg"
+    "icon": "https://app.across.to/favicon.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://zapper.xyz/",
@@ -247,7 +268,8 @@
   {
     "url": "https://dao.mystiko.network/airdrops",
     "title": "Mystiko Airdrop",
-    "icon": "https://dao.mystiko.network/favicon.ico"
+    "icon": "https://dao.mystiko.network/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://jumper.exchange/",
@@ -272,7 +294,8 @@
   {
     "url": "https://stake.everstake.one/",
     "title": "Everstake",
-    "icon": "https://stake.everstake.one/favicon.svg"
+    "icon": "https://stake.everstake.one/favicon.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://looksrare.org",
@@ -302,12 +325,8 @@
   {
     "url": "https://app.ebisusbay.com/",
     "title": "Ebisu's Bay Marketplace",
-    "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
-  },
-  {
-    "url": "https://ebisusbay.com/",
-    "title": "Ebisusbay",
-    "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4"
+    "icon": "https://app.ebisusbay.com/apple-touch-icon.png?v=4",
+    "tag": "expandable"
   },
   {
     "url": "https://lista.org/",
@@ -322,7 +341,8 @@
   {
     "url": "https://ao.arweave.dev/",
     "title": "AO",
-    "icon": "https://ao.arweave.dev/favicon.svg"
+    "icon": "https://ao.arweave.dev/favicon.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://matcha.xyz/",
@@ -332,7 +352,8 @@
   {
     "url": "https://app.logx.trade/",
     "title": "LogX",
-    "icon": "https://app.logx.trade/logx-seo.svg"
+    "icon": "https://app.logx.trade/logx-seo.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://blast.io",
@@ -347,7 +368,8 @@
   {
     "url": "https://bridge.kccpad.io/",
     "title": "KCCPad Bridge",
-    "icon": "https://bridge.kccpad.io/favicon.ico"
+    "icon": "https://bridge.kccpad.io/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://ave.ai/",
@@ -362,17 +384,20 @@
   {
     "url": "https://native.filet.finance/",
     "title": "Filet",
-    "icon": "https://native.filet.finance/favicon.ico"
+    "icon": "https://native.filet.finance/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://app.getgrass.io/",
     "title": "Grass",
-    "icon": "https://app.getgrass.io/favicon.png"
+    "icon": "https://app.getgrass.io/favicon.png",
+    "tag": "expandable"
   },
   {
     "url": "https://app.rhino.fi/",
     "title": "Rhino",
-    "icon": "https://app.rhino.fi/apple-touch-icon.png"
+    "icon": "https://app.rhino.fi/apple-touch-icon.png",
+    "tag": "expandable"
   },
   {
     "url": "https://plumenetwork.xyz/",
@@ -392,22 +417,26 @@
   {
     "url": "https://faucets.chain.link/",
     "title": "ChainLink Faucet",
-    "icon": "https://smartcontract.imgix.net/chainlink.ico?auto=compress%2Cformat"
+    "icon": "https://smartcontract.imgix.net/chainlink.ico?auto=compress%2Cformat",
+    "tag": "expandable"
   },
   {
     "url": "https://dapp.vip3.io/",
     "title": "VIP3",
-    "icon": "https://dapp.vip3.io/vip3.svg"
+    "icon": "https://dapp.vip3.io/vip3.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://quest.buildonhybrid.com",
     "title": "Hybrid Quest",
-    "icon": "https://quest.buildonhybrid.com/Hybrid Favicons/apple-touch-icon.png"
+    "icon": "https://quest.buildonhybrid.com/Hybrid Favicons/apple-touch-icon.png",
+    "tag": "expandable"
   },
   {
     "url": "https://app.buildonhybrid.com/",
     "title": "Hybrid",
-    "icon": "https://app.buildonhybrid.com/favicon.png"
+    "icon": "https://app.buildonhybrid.com/favicon.png",
+    "tag": "expandable"
   },
   {
     "url": "https://adamdefi.io/swap",
@@ -417,7 +446,8 @@
   {
     "url": "https://bartio.bex.berachain.com",
     "title": "Bartio BEX",
-    "icon": "https://bartio.bex.berachain.com/icon.svg?3d77bdf18adacc49"
+    "icon": "https://bartio.bex.berachain.com/icon.svg?3d77bdf18adacc49",
+    "tag": "expandable"
   },
   {
     "url": "https://cookie.community",
@@ -427,7 +457,8 @@
   {
     "url": "https://stake.coredao.org",
     "title": "Core Stake",
-    "icon": "https://stake.coredao.org/favicon.ico"
+    "icon": "https://stake.coredao.org/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://tunachain.io/",
@@ -437,7 +468,8 @@
   {
     "url": "https://faucet.circle.com/",
     "title": "Testnet Faucet",
-    "icon": "https://faucet.circle.com/favicon.ico"
+    "icon": "https://faucet.circle.com/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://synthetik.app/",
@@ -452,27 +484,26 @@
   {
     "url": "https://airdrop.blast.io/",
     "title": "Blast Airdrop",
-    "icon": "https://airdrop.blast.io/favicon.svg"
+    "icon": "https://airdrop.blast.io/favicon.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://faucet.plumenetwork.xyz/",
     "title": "Plume Network Faucet",
-    "icon": "https://faucet.plumenetwork.xyz/favicon.ico"
+    "icon": "https://faucet.plumenetwork.xyz/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://testnet.zulunetwork.io/bridge",
     "title": "Zulu Testnet Bridge",
-    "icon": "https://testnet.zulunetwork.io/images/favicon.ico"
-  },
-  {
-    "url": "https://miles.plumenetwork.xyz/mint",
-    "title": "Plume Lounge",
-    "icon": "https://miles.plumenetwork.xyz/favicon.ico"
+    "icon": "https://testnet.zulunetwork.io/images/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://faucet.quicknode.com",
     "title": "Multi-Chain Faucet by QuickNode",
-    "icon": "https://faucet.quicknode.com/favicon.png"
+    "icon": "https://faucet.quicknode.com/favicon.png",
+    "tag": "expandable"
   },
   {
     "url": "https://zealy.io/",
@@ -482,7 +513,8 @@
   {
     "url": "https://www.aryze.io/",
     "title": "ARYZE",
-    "icon": "https://www.aryze.io/favicon.ico"
+    "icon": "https://www.aryze.io/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://dottaiko.me/",
@@ -492,7 +524,8 @@
   {
     "url": "https://app.solv.finance/",
     "title": "Solv App",
-    "icon": "https://app.solv.finance/favicon.ico"
+    "icon": "https://app.solv.finance/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://sushi.com",
@@ -507,7 +540,8 @@
   {
     "url": "https://app.questn.com/",
     "title": "QuestN",
-    "icon": "https://app.questn.com/favicon.ico"
+    "icon": "https://app.questn.com/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://warpcast.com/",
@@ -522,22 +556,26 @@
   {
     "url": "https://portal.flare.network",
     "title": "Flare Portal",
-    "icon": "https://portal.flare.network/flare_secondary_icon_only.svg"
+    "icon": "https://portal.flare.network/flare_secondary_icon_only.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://pioneer.particle.network/",
     "title": "Particle Pioneer",
-    "icon": "https://pioneer.particle.network/favicon.ico"
+    "icon": "https://pioneer.particle.network/favicon.ico",
+    "tag": "expandable"
   },
   {
     "url": "https://app.gnosispay.com/",
     "title": "Gnosis Pay",
-    "icon": "https://app.gnosispay.com/icon.png?98c9df86ff003726"
+    "icon": "https://app.gnosispay.com/icon.png?98c9df86ff003726",
+    "tag": "expandable"
   },
   {
     "url": "https://star.legend.game/",
     "title": "Legend Game",
-    "icon": "https://star.legend.game/favicon.svg"
+    "icon": "https://star.legend.game/favicon.svg",
+    "tag": "expandable"
   },
   {
     "url": "https://zkbridge.com/",
