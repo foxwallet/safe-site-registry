@@ -581,5 +581,10 @@
     "url": "https://zkbridge.com/",
     "title": "zkBridge",
     "icon": "https://www.zkbridge.com/favicon.png"
+  },
+  {
+    "url": "https://drip.haus/",
+    "title": "DRiP",
+    "icon": "https://drip.haus/apple-touch-icon.png"
   }
 ]
