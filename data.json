@@ -586,5 +586,15 @@
     "url": "https://drip.haus/",
     "title": "DRiP",
     "icon": "https://drip.haus/apple-touch-icon.png"
+  },
+  {
+    "url": "https://medium.com/",
+    "title": "Medium",
+    "icon": "https://miro.medium.com/v2/1*m-R_BkNf1Qjr1YbyOIJY2w.png"
+  },
+  {
+    "url": "https://youtube.com/",
+    "title": "YouTube",
+    "icon": "https://www.youtube.com/s/desktop/a7b1ec23/img/favicon.ico"
   }
 ]
