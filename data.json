@@ -627,5 +627,11 @@
     "title": "Ave.ai",
     "icon": "https://m.avedex.cc/favicon.ico",
     "tag": "expandable"
+  },
+  {
+    "url": "https://app.retrobridge.io/",
+    "title": "Retro Bridge",
+    "icon": "https://app.retrobridge.io/favicon.png",
+    "tag": "expandable"
   }
 ]
