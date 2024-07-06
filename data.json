@@ -633,5 +633,11 @@
     "title": "Retro Bridge",
     "icon": "https://app.retrobridge.io/favicon.png",
     "tag": "expandable"
+  },
+  {
+    "url": "https://www.puffer.fi/",
+    "title": "Puffer: Staking for the Little Fish",
+    "icon": "https://www.puffer.fi/favicon/apple-touch-icon.png",
+    "tag": "expandable"
   }
 ]
