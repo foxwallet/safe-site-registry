@@ -611,5 +611,21 @@
     "url": "https://ignitionrewards.iog.net/",
     "title": "IO Ignition Program Rewards",
     "icon": "https://framerusercontent.com/images/TA2CN4KdTkTEQIu8A8dPWiTaok.png"
+  },
+  {
+    "url": "https://de.fi",
+    "title": "De.Fi",
+    "icon": "https://de.fi/favicon.ico"
+  },
+  {
+    "url": "https://layerswap.io/",
+    "title": "Layerswap",
+    "icon": "https://layerswap.io/favicon/apple-touch-icon.png"
+  },
+  {
+    "url": "https://m.avedex.cc",
+    "title": "Ave.ai",
+    "icon": "https://m.avedex.cc/favicon.ico",
+    "tag": "expandable"
   }
 ]
