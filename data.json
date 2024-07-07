@@ -639,5 +639,15 @@
     "title": "Puffer: Staking for the Little Fish",
     "icon": "https://www.puffer.fi/favicon/apple-touch-icon.png",
     "tag": "expandable"
+  },
+  {
+    "url": "https://swap.transit.finance",
+    "title": "Transit Swap",
+    "icon": "https://tp-statics.tokenpocket.pro/logo/dapp/transit.png"
+  },
+  {
+    "url": "https://app.thruster.finance",
+    "title": "Thruster",
+    "icon": "https://app.thruster.finance/favicon.ico"
   }
 ]
