@@ -643,11 +643,30 @@
   {
     "url": "https://swap.transit.finance",
     "title": "Transit Swap",
-    "icon": "https://tp-statics.tokenpocket.pro/logo/dapp/transit.png"
+    "icon": "https://tp-statics.tokenpocket.pro/logo/dapp/transit.png",
+    "tag": "expandable"
   },
   {
     "url": "https://app.thruster.finance",
     "title": "Thruster",
-    "icon": "https://app.thruster.finance/favicon.ico"
+    "icon": "https://app.thruster.finance/favicon.ico",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://app.ether.fi/",
+    "title": "ether.fi",
+    "icon": "https://app.ether.fi/favicon/apple-icon.png",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://app.symbiosis.finance/",
+    "title": "Symbiosis",
+    "icon": "https://app.symbiosis.finance/images/apple-touch-icon.png",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://satori.finance/",
+    "title": "Satori",
+    "icon": "https://satori.finance/satori-mark-green.svg"
   }
 ]
