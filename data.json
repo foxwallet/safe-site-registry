@@ -668,5 +668,10 @@
     "url": "https://satori.finance/",
     "title": "Satori",
     "icon": "https://satori.finance/satori-mark-green.svg"
+  },
+  {
+    "url": "https://blockscout.com",
+    "title": "Blockscout",
+    "icon": "https://blockscout.com/favicon.ico"
   }
 ]
