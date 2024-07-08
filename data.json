@@ -678,5 +678,10 @@
     "url": "https://discord.com",
     "title": "Discord",
     "icon": "https://discord.com/favicon.ico"
+  },
+  {
+    "url": "https://tokenscript.org/",
+    "title": "TokenScript",
+    "icon": "https://www.tokenscript.org/favicon-32x32.png"
   }
 ]
