@@ -673,5 +673,10 @@
     "url": "https://blockscout.com",
     "title": "Blockscout",
     "icon": "https://blockscout.com/favicon.ico"
+  },
+  {
+    "url": "https://discord.com",
+    "title": "Discord",
+    "icon": "https://discord.com/favicon.ico"
   }
 ]
