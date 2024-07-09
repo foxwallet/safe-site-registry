@@ -683,5 +683,15 @@
     "url": "https://tokenscript.org/",
     "title": "TokenScript",
     "icon": "https://www.tokenscript.org/favicon-32x32.png"
+  },
+  {
+    "url": "https://mirror.xyz",
+    "title": "Mirror",
+    "icon": "https://mirror.xyz/favicon.ico"
+  },
+  {
+    "url": "https://oneid.xyz/",
+    "title": "OneID",
+    "icon": "https://www.oneid.xyz/favicon.ico"
   }
 ]
