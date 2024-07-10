@@ -725,5 +725,10 @@
     "url": "https://sociogram.org/",
     "title": "Sociogram",
     "icon": "https://sociogram.org/favicon/apple-touch-icon.png"
+  },
+  {
+    "url": "https://app.mycrypto.com/",
+    "title": "MyCrypto",
+    "icon": "https://app.mycrypto.com/src/assets/meta-11a8c02e10727f8bedd8b2db815fcc6d/favicon.ico"
   }
 ]
