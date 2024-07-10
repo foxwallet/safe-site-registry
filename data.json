@@ -720,5 +720,10 @@
     "url": "https://birdeye.so/",
     "title": "Birdeye",
     "icon": "https://birdeye.so/favicon.ico"
+  },
+  {
+    "url": "https://sociogram.org/",
+    "title": "Sociogram",
+    "icon": "https://sociogram.org/favicon/apple-touch-icon.png"
   }
 ]
