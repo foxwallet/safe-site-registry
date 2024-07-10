@@ -693,5 +693,32 @@
     "url": "https://oneid.xyz/",
     "title": "OneID",
     "icon": "https://www.oneid.xyz/favicon.ico"
+  },
+  {
+    "url": "https://app.cetus.zone/",
+    "title": "Cetus",
+    "icon": "https://app.cetus.zone/favicon.ico?t=1720093328693",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://mantle.xyz/",
+    "title": "Mantle",
+    "icon": "https://www.mantle.xyz/favicon.ico"
+  },
+  {
+    "url": "https://app.compound.finance",
+    "title": "Compound",
+    "icon": "https://v3-app.compound.finance/favicon.ico",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://alchemypay.org/",
+    "title": "Alchemy Pay",
+    "icon": "https://alchemypay.org/favicon.ico"
+  },
+  {
+    "url": "https://birdeye.so/",
+    "title": "Birdeye",
+    "icon": "https://birdeye.so/favicon.ico"
   }
 ]
