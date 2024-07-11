@@ -730,5 +730,11 @@
     "url": "https://app.mycrypto.com/",
     "title": "MyCrypto",
     "icon": "https://app.mycrypto.com/src/assets/meta-11a8c02e10727f8bedd8b2db815fcc6d/favicon.ico"
+  },
+  {
+    "url": "https://bridge.syscoin.org/",
+    "title": "Syscoin Bridge",
+    "icon": "https://bridge.syscoin.org/favicon.ico",
+    "tag": "expandable"
   }
 ]
