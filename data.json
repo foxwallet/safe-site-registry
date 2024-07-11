@@ -736,5 +736,10 @@
     "title": "Syscoin Bridge",
     "icon": "https://bridge.syscoin.org/favicon.ico",
     "tag": "expandable"
+  },
+  {
+    "url": "https://lavanet.xyz",
+    "title": "Lava Network",
+    "icon": "https://lavanet.xyz/favicon.ico"
   }
 ]
