@@ -741,5 +741,15 @@
     "url": "https://lavanet.xyz",
     "title": "Lava Network",
     "icon": "https://lavanet.xyz/favicon.ico"
+  },
+  {
+    "url": "https://linea.build/",
+    "title": "Linea",
+    "icon": "https://linea.build/apple-touch-icon.png"
+  },
+  {
+    "url": "https://kcu.kroma.network/",
+    "title": "KCU - Kroma Creative Universe",
+    "icon": "https://kcu.kroma.network/favicon.ico"
   }
 ]
