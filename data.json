@@ -751,5 +751,17 @@
     "url": "https://kcu.kroma.network/",
     "title": "KCU - Kroma Creative Universe",
     "icon": "https://kcu.kroma.network/favicon.ico"
+  },
+  {
+    "url": "https://app.gmx.io/",
+    "title": "GMX",
+    "icon": "https://app.gmx.io/favicon/apple-icon-57x57.png",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://apps.areon.network/",
+    "title": "Areon Network Apps",
+    "icon": "https://apps.areon.network/favicon.png",
+    "tag": "expandable"
   }
 ]
