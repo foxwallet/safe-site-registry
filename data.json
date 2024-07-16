@@ -768,5 +768,10 @@
     "url": "https://lynex.fi/",
     "title": "Lynex",
     "icon": "https://assets-global.website-files.com/645d0baba624e61983ac17f8/64b46af330ae58c2d43293ff_32.png"
+  },
+  {
+    "url": "https://bscscan.com/",
+    "title": "BNB Smart Chain Explorer",
+    "icon": "https://bscscan.com/favicon.ico"
   }
 ]
