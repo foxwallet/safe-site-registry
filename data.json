@@ -773,5 +773,10 @@
     "url": "https://bscscan.com/",
     "title": "BNB Smart Chain Explorer",
     "icon": "https://bscscan.com/favicon.ico"
+  },
+  {
+    "url": "https://hashmix.org",
+    "title": "HashMix",
+    "icon": "https://hashmix.org/favicon.ico"
   }
 ]
