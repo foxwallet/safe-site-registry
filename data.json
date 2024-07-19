@@ -778,5 +778,21 @@
     "url": "https://hashmix.org",
     "title": "HashMix",
     "icon": "https://hashmix.org/favicon.ico"
+  },
+  {
+    "url": "https://app.sanctum.so/",
+    "title": "Sanctum",
+    "icon": "https://app.sanctum.so/favicon.ico",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://cherryswap.net/",
+    "title": "Cherry Swap",
+    "icon": "https://cherryswap.net/favicon.png"
+  },
+  {
+    "url": "https://app.multibit.exchange",
+    "title": "Multibit",
+    "icon": "https://app.multibit.exchange/favicon.ico"
   }
 ]
