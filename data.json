@@ -794,5 +794,21 @@
     "url": "https://app.multibit.exchange",
     "title": "Multibit",
     "icon": "https://app.multibit.exchange/favicon.ico"
+  },
+  {
+    "url": "https://revox.ai/",
+    "title": "REVOX",
+    "icon": "https://www.revox.ai/favicon.ico"
+  },
+  {
+    "url": "https://portal.polygon.technology/",
+    "title": "Polygon Portal",
+    "icon": "https://portal.polygon.technology/favicon.ico",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://coinbase.com/",
+    "title": "Coinbase",
+    "icon": "https://coinbase.com/favicon.ico"
   }
 ]
