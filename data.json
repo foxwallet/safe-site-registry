@@ -810,5 +810,10 @@
     "url": "https://coinbase.com/",
     "title": "Coinbase",
     "icon": "https://coinbase.com/favicon.ico"
+  },
+  {
+    "url": "https://optopia.ai/",
+    "title": "OPTOPIA",
+    "icon": "https://www.optopia.ai/favicon.ico"
   }
 ]
