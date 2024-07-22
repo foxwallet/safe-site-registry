@@ -815,5 +815,20 @@
     "url": "https://optopia.ai/",
     "title": "OPTOPIA",
     "icon": "https://www.optopia.ai/favicon.ico"
+  },
+  {
+    "url": "https://coinmarketcap.com/",
+    "title": "CoinMarketCap",
+    "icon": "https://coinmarketcap.com/apple-touch-icon.png"
+  },
+  {
+    "url": "https://eesee.io/",
+    "title": "eesee",
+    "icon": "https://eesee.io/favicon.ico"
+  },
+  {
+    "url": "https://intract.io/",
+    "title": "Intract Quests",
+    "icon": "https://www.intract.io/logo/favicon.svg"
   }
 ]
