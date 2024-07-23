@@ -830,5 +830,15 @@
     "url": "https://intract.io/",
     "title": "Intract Quests",
     "icon": "https://www.intract.io/logo/favicon.svg"
+  },
+  {
+    "url": "https://availproject.org/",
+    "title": "Avail",
+    "icon": "https://availproject.org/favicon.ico"
+  },
+  {
+    "url": "https://zklink.io/",
+    "title": "zkLink Nova",
+    "icon": "https://zklink.io/favicon.ico"
   }
 ]
