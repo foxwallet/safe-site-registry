@@ -840,5 +840,10 @@
     "url": "https://zklink.io/",
     "title": "zkLink Nova",
     "icon": "https://zklink.io/favicon.ico"
+  },
+  {
+    "url": "https://qtumbridge.org",
+    "title": "Qtum Bridge",
+    "icon": "https://qtumbridge.org/branding/favicon.ico"
   }
 ]
