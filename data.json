@@ -845,5 +845,10 @@
     "url": "https://qtumbridge.org",
     "title": "Qtum Bridge",
     "icon": "https://qtumbridge.org/branding/favicon.ico"
+  },
+  {
+    "url": "https://sns.id/",
+    "title": "Solana Name Service",
+    "icon": "https://www.sns.id/favicon.svg"
   }
 ]
