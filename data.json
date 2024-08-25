@@ -850,5 +850,10 @@
     "url": "https://sns.id/",
     "title": "Solana Name Service",
     "icon": "https://www.sns.id/favicon.svg"
+  },
+  {
+    "url": "https://parasail.network/",
+    "title": "Parasail",
+    "icon": "https://www.parasail.network/favicon.png"
   }
 ]
