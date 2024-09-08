@@ -855,5 +855,16 @@
     "url": "https://parasail.network/",
     "title": "Parasail",
     "icon": "https://www.parasail.network/favicon.png"
+  },
+  {
+    "url": "https://greenfield.bnbchain.org",
+    "title": "BNB Green Field",
+    "icon": "https://static.bnbchain.org/greenfield-ui/static/images/favicon.ico",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://umy.com/",
+    "title": "Umy",
+    "icon": "https://umy.com/favicon.ico"
   }
 ]
