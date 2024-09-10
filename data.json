@@ -901,5 +901,20 @@
     "url": "https://staking.xyz",
     "title": "Staking.xyz",
     "icon": "https://staking.xyz/favicons/favicon.ico"
+  },
+  {
+    "url": "https://aleo.info/",
+    "title": "Aleo Info Explorer",
+    "icon": "https://aleo.info/favicon.ico"
+  },
+  {
+    "url": "https://aleoscan.io/",
+    "title": "AleoScan",
+    "icon": "https://aleoscan.io/favicon.ico"
+  },
+  {
+    "url": "https://aleo.org/",
+    "title": "Aleo",
+    "icon": "https://aleo.org/favicon.ico"
   }
 ]
