@@ -871,5 +871,35 @@
     "url": "https://bsquared.network/",
     "title": "BSquared Network",
     "icon": "https://www.bsquared.network/favicon.ico"
+  },
+  {
+    "url": "https://sundog.meme/",
+    "title": "Sundog",
+    "icon": "https://cdn.prod.website-files.com/66bca727d92ab83bd2b5c753/66bdd50f5b013ed844d716c7_fav%2032.png"
+  },
+  {
+    "url": "https://1launch.xyz/",
+    "title": "1Launch",
+    "icon": "https://1launch.xyz/favicon.ico"
+  },
+  {
+    "url": "https://aleonames.id",
+    "title": "ANS",
+    "icon": "https://aleonames.id/favicon.ico"
+  },
+  {
+    "url": "https://betastaking.com/",
+    "title": "Beta Staking",
+    "icon": "https://betastaking.com/favicon.png"
+  },
+  {
+    "url": "https://arcane.finance/",
+    "title": "Arcane Finance",
+    "icon": "https://cdn.prod.website-files.com/650e930af281c025773dfb28/65114aa2ff2d3e4c6bbea925_fav.png"
+  },
+  {
+    "url": "https://staking.xyz",
+    "title": "Staking.xyz",
+    "icon": "https://staking.xyz/favicons/favicon.ico"
   }
 ]
