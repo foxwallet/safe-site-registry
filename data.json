@@ -866,5 +866,10 @@
     "url": "https://umy.com/",
     "title": "Umy",
     "icon": "https://umy.com/favicon.ico"
+  },
+  {
+    "url": "https://bsquared.network/",
+    "title": "BSquared Network",
+    "icon": "https://www.bsquared.network/favicon.ico"
   }
 ]
