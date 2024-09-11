@@ -916,5 +916,10 @@
     "url": "https://aleo.org/",
     "title": "Aleo",
     "icon": "https://aleo.org/favicon.ico"
+  },
+  {
+    "url": "https://sunpump.meme/",
+    "title": "Sun Pump",
+    "icon": "https://sunpump.meme/favicon.ico"
   }
 ]
