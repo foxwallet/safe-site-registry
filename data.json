@@ -921,5 +921,30 @@
     "url": "https://sunpump.meme/",
     "title": "Sun Pump",
     "icon": "https://sunpump.meme/favicon.ico"
+  },
+  {
+    "url": "https://metapool.app/",
+    "title": "Meta Pool",
+    "icon": "https://www.metapool.app/favicon.ico"
+  },
+  {
+    "url": "https://ston.fi/",
+    "title": "STON.fi",
+    "icon": "https://ston.fi/images/tild6565-3634-4862-b830-316237386332__favicon.png"
+  },
+  {
+    "url": "https://znsconnect.io",
+    "title": "ZNS Connect Name Service",
+    "icon": "https://znsconnect.io/favicon.ico"
+  },
+  {
+    "url": "https://zns.bio/",
+    "title": "ZNS Connect Name Service",
+    "icon": "https://zns.bio/favicon.ico"
+  },
+  {
+    "url": "https://rainbow.me/",
+    "title": "Rainbow",
+    "icon": "https://framerusercontent.com/images/bgm16Z9pe9YGDU72vUuHTzyYYk.png"
   }
 ]
