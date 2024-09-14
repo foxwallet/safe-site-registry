@@ -946,5 +946,11 @@
     "url": "https://rainbow.me/",
     "title": "Rainbow",
     "icon": "https://framerusercontent.com/images/bgm16Z9pe9YGDU72vUuHTzyYYk.png"
+  },
+  {
+    "url": "https://app.zerion.io/",
+    "title": "Portfolio Tracker by Zerion, Crypto Wallet for NFTs and DeFi",
+    "icon": "https://s3.amazonaws.com/cdn.zerion.io/assets/apple-touch-icon.png",
+    "tag": "expandable"
   }
 ]
