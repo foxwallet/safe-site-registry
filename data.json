@@ -952,5 +952,10 @@
     "title": "Portfolio Tracker by Zerion, Crypto Wallet for NFTs and DeFi",
     "icon": "https://s3.amazonaws.com/cdn.zerion.io/assets/apple-touch-icon.png",
     "tag": "expandable"
+  },
+  {
+    "url": "https://movepump.com/",
+    "title": "Move Pump",
+    "icon": "https://movepump.com/favicon.ico"
   }
 ]
