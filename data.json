@@ -957,5 +957,10 @@
     "url": "https://movepump.com/",
     "title": "Move Pump",
     "icon": "https://movepump.com/favicon.ico"
+  },
+  {
+    "url": "https://hashkey.cloud/",
+    "title": "HashKey Cloud",
+    "icon": "https://www.hashkey.cloud/favicon.ico"
   }
 ]
