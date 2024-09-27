@@ -962,5 +962,10 @@
     "url": "https://hashkey.cloud/",
     "title": "HashKey Cloud",
     "icon": "https://www.hashkey.cloud/favicon.ico"
+  },
+  {
+    "url": "https://pondo.xyz",
+    "title": "Pondo",
+    "icon": "https://pondo.xyz/favicon.ico"
   }
 ]
