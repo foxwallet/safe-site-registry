@@ -967,5 +967,10 @@
     "url": "https://pondo.xyz",
     "title": "Pondo",
     "icon": "https://pondo.xyz/favicon.ico"
+  },
+  {
+    "url": "https://morphl2.io",
+    "title": "Morph",
+    "icon": "https://morphl2.io/favicon.ico"
   }
 ]
