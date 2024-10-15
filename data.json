@@ -972,5 +972,15 @@
     "url": "https://morphl2.io",
     "title": "Morph",
     "icon": "https://morphl2.io/favicon.ico"
+  },
+  {
+    "url": "https://lumia.org/",
+    "title": "Lumia",
+    "icon": "https://lumia.org/images/favicon.svg"
+  },
+  {
+    "url": "https://bitlayer.org/",
+    "title": "Bitlayer",
+    "icon": "https://www.bitlayer.org/apple-touch-icon.png"
   }
 ]
