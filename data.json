@@ -997,5 +997,10 @@
     "url": "https://portalbridge.com/",
     "title": "Portal Token Bridge",
     "icon": "https://portalbridge.com/favicon.ico"
+  },
+  {
+    "url": "https://claim.deepbook.tech",
+    "title": "Claim your DEEP",
+    "icon": "https://claim.deepbook.tech/images/icon.png"
   }
 ]
