@@ -992,5 +992,10 @@
     "url": "https://mintchain.io",
     "title": "Mint Blockchain",
     "icon": "https://mintchain.io/favicon.ico"
+  },
+  {
+    "url": "https://portalbridge.com/",
+    "title": "Portal Token Bridge",
+    "icon": "https://portalbridge.com/favicon.ico"
   }
 ]
