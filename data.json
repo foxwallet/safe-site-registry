@@ -1002,5 +1002,10 @@
     "url": "https://claim.deepbook.tech",
     "title": "Claim your DEEP",
     "icon": "https://claim.deepbook.tech/images/icon.png"
+  },
+  {
+    "url": "https://checkdrop.byzantine.fi/",
+    "title": "Check Drop",
+    "icon": "https://checkdrop.byzantine.fi/icon.png?9f4bbcfda46b0030"
   }
 ]
