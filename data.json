@@ -1013,5 +1013,10 @@
     "title": "Coreum Token Hub",
     "icon": "https://token-hub.coreum.dev/favicon.ico",
     "tag": "expandable"
+  },
+  {
+    "url": "https://hop.ag/",
+    "title": "Hop Aggregator: Sui DEX Aggregator",
+    "icon": "https://hop.ag/favicon.ico"
   }
 ]
