@@ -1007,5 +1007,11 @@
     "url": "https://checkdrop.byzantine.fi/",
     "title": "Check Drop",
     "icon": "https://checkdrop.byzantine.fi/icon.png?9f4bbcfda46b0030"
+  },
+  {
+    "url": "https://token-hub.coreum.dev/",
+    "title": "Coreum Token Hub",
+    "icon": "https://token-hub.coreum.dev/favicon.ico",
+    "tag": "expandable"
   }
 ]
