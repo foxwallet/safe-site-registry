@@ -1018,5 +1018,10 @@
     "url": "https://hop.ag/",
     "title": "Hop Aggregator: Sui DEX Aggregator",
     "icon": "https://hop.ag/favicon.ico"
+  },
+  {
+    "url": "https://falxdex.com/",
+    "title": "FalXDex",
+    "icon": "https://falxdex.com/favicon.ico"
   }
 ]
