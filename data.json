@@ -1023,5 +1023,10 @@
     "url": "https://falxdex.com/",
     "title": "FalXDex",
     "icon": "https://falxdex.com/favicon.ico"
+  },
+  {
+    "url": "https://dexscreener.com",
+    "title": "DexScreener",
+    "icon": "https://dexscreener.com/favicon.ico"
   }
 ]
