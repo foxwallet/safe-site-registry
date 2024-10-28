@@ -1028,5 +1028,10 @@
     "url": "https://dexscreener.com",
     "title": "DexScreener",
     "icon": "https://dexscreener.com/favicon.ico"
+  },
+  {
+    "url": "https://secwarex.io/",
+    "title": "SecWareX",
+    "icon": "https://secwarex.io/favicon.ico"
   }
 ]
