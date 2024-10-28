@@ -1033,5 +1033,10 @@
     "url": "https://secwarex.io/",
     "title": "SecWareX",
     "icon": "https://secwarex.io/favicon.ico"
+  },
+  {
+    "url": "https://app.chimp.exchange/",
+    "title": "Chimp Exchange",
+    "icon": "https://app.chimp.exchange/favicon.ico"
   }
 ]
