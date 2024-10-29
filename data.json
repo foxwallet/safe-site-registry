@@ -1038,5 +1038,20 @@
     "url": "https://app.chimp.exchange/",
     "title": "Chimp Exchange",
     "icon": "https://app.chimp.exchange/favicon.ico"
+  },
+  {
+    "url": "https://sun.io",
+    "title": "SunSwap",
+    "icon": "https://sun.io/favicon.ico"
+  },
+  {
+    "url": "https://app.ariesmarkets.xyz/swap",
+    "title": "Aries Markets",
+    "icon": "https://app.ariesmarkets.xyz/favicon.ico"
+  },
+  {
+    "url": "https://raydium.io/swap",
+    "title": "Raydium",
+    "icon": "https://raydium.io/favicon.ico"
   }
 ]
