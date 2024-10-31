@@ -1053,5 +1053,35 @@
     "url": "https://raydium.io/swap",
     "title": "Raydium",
     "icon": "https://raydium.io/favicon.ico"
+  },
+  {
+    "url": "https://bonkcoin.com/",
+    "title": "BONK COIN",
+    "icon": "https://bonkcoin.com/favicon.ico"
+  },
+  {
+    "url": "https://xstar.id/",
+    "title": "XSTAR",
+    "icon": "https://xstar.id/favicon.ico"
+  },
+  {
+    "url": "https://hegecoin.com/",
+    "title": "HegeCoin",
+    "icon": "https://cdn.prod.website-files.com/65f87aec638f9327eda32e82/65f9d33259fa9f27764a69f2_hegefavicon.png"
+  },
+  {
+    "url": "https://stealthex.io/",
+    "title": "Online Crypto Exchange Platform with the Best Rates",
+    "icon": "https://stealthex.io/favicon.ico"
+  },
+  {
+    "url": "https://gasp.xyz/",
+    "title": "Gasp",
+    "icon": "https://www.gasp.xyz/favicon.ico"
+  },
+  {
+    "url": "https://nerochain.io/",
+    "title": "NeroChain",
+    "icon": "https://framerusercontent.com/images/45NncLY0V1ELrMis3GvSCJsN79s.png"
   }
 ]
