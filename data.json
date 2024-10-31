@@ -1083,5 +1083,16 @@
     "url": "https://nerochain.io/",
     "title": "NeroChain",
     "icon": "https://framerusercontent.com/images/45NncLY0V1ELrMis3GvSCJsN79s.png"
+  },
+  {
+    "url": "https://suigar.com/",
+    "title": "Suigar",
+    "icon": "https://suigar.com/assets/favicon-_S4tQF6E.png"
+  },
+  {
+    "url": "https://app.tonstakers.com/",
+    "title": "Tonstakers Liquid Staking dApp",
+    "icon": "https://app.tonstakers.com/",
+    "tag": "expandable"
   }
 ]
