@@ -1094,5 +1094,28 @@
     "title": "Tonstakers Liquid Staking dApp",
     "icon": "https://app.tonstakers.com/",
     "tag": "expandable"
+  },
+  {
+    "url": "https://idhub.litentry.io/",
+    "title": "Litentry IdentityHub",
+    "icon": "https://idhub.litentry.io/favicon.ico",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://www.mises.site/",
+    "title": "Mises Browser",
+    "icon": "https://www.mises.site/static/images/index/favicon.ico",
+    "tag": "expandable"
+  },
+  {
+    "url": "https://cored.in/",
+    "title": "cored.in",
+    "icon": "https://cored.in/apple-touch-icon.png"
+  },
+  {
+    "url": "https://app.morfi.io/",
+    "title": "MorFi",
+    "icon": "https://app.morfi.io/favicon-32x32.png",
+    "tag": "expandable"
   }
 ]
