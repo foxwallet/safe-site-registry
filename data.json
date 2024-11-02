@@ -1117,5 +1117,10 @@
     "title": "MorFi",
     "icon": "https://app.morfi.io/favicon-32x32.png",
     "tag": "expandable"
+  },
+  {
+    "url": "https://upcade.xyz/",
+    "title": "Upcade",
+    "icon": "https://upcade.xyz/evm/icon.ico?6219f5a21a68b552"
   }
 ]
