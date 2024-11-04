@@ -1122,5 +1122,11 @@
     "url": "https://upcade.xyz/",
     "title": "Upcade",
     "icon": "https://upcade.xyz/evm/icon.ico?6219f5a21a68b552"
+  },
+  {
+    "url": "https://bridge.verulink.com/",
+    "title": "Verulink",
+    "icon": "https://bridge.verulink.com/favicon.ico",
+    "tag": "expandable"
   }
 ]
