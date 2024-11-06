@@ -1128,5 +1128,10 @@
     "title": "Verulink",
     "icon": "https://bridge.verulink.com/favicon.ico",
     "tag": "expandable"
+  },
+  {
+    "url": "https://polymarket.com/",
+    "title": "Polymarket",
+    "icon": "https://polymarket.com/apple-touch-icon.png"
   }
 ]
