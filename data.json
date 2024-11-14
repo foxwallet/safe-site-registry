@@ -1143,5 +1143,10 @@
     "url": "https://neuton.pro",
     "title": "NEUTON",
     "icon": "https://neuton.pro/favicon.ico"
+  },
+  {
+    "url": "https://pigu.world/",
+    "title": "Pigu's World",
+    "icon": "https://www.pigu.world/favicon.ico"
   }
 ]
