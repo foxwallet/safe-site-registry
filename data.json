@@ -1178,5 +1178,10 @@
     "url": "https://zygothefrog.com/",
     "title": "Zygo The Frog",
     "icon": "https://www.zygothefrog.com/favicon.ico"
+  },
+  {
+    "url": "https://7k.ag/",
+    "title": "7K Aggregator",
+    "icon": "https://7k.ag/apple-touch-icon.png"
   }
 ]
