@@ -1183,5 +1183,10 @@
     "url": "https://7k.ag/",
     "title": "7K Aggregator",
     "icon": "https://7k.ag/apple-touch-icon.png"
+  },
+  {
+    "url": "https://zuit.xyz/",
+    "title": "Zuit",
+    "icon": "https://zuit.xyz/favicon.ico"
   }
 ]
