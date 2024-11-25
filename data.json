@@ -1188,5 +1188,10 @@
     "url": "https://zuit.xyz/",
     "title": "Zuit",
     "icon": "https://zuit.xyz/favicon.ico"
+  },
+  {
+    "url": "https://creatorchain.io/",
+    "title": "Creator Network",
+    "icon": "https://creatorchain.io/favicon.ico"
   }
 ]
