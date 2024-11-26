@@ -1193,5 +1193,11 @@
     "url": "https://creatorchain.io/",
     "title": "Creator Network",
     "icon": "https://creatorchain.io/favicon.ico"
+  },
+  {
+    "url": "https://app.fibrous.finance/",
+    "title": "Fibrous",
+    "icon": "https://app.fibrous.finance/favicon.ico",
+    "tag": "expandable"
   }
 ]
