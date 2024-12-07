@@ -1204,5 +1204,11 @@
     "url": "https://suiscan.xyz",
     "title": "Sui Explorer",
     "icon": "https://suiscan.xyz/favicon.ico"
+  },
+  {
+    "url": "http://swap.cow.fi",
+    "title": "CoW Swap",
+    "icon": "http://swap.cow.fi/apple-touch-icon.png",
+    "tag": "expandable"
   }
 ]
