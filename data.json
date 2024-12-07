@@ -1199,5 +1199,10 @@
     "title": "Fibrous",
     "icon": "https://app.fibrous.finance/favicon.ico",
     "tag": "expandable"
+  },
+  {
+    "url": "https://suiscan.xyz",
+    "title": "Sui Explorer",
+    "icon": "https://suiscan.xyz/favicon.ico"
   }
 ]
