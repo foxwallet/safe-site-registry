@@ -1210,5 +1210,10 @@
     "title": "CoW Swap",
     "icon": "http://swap.cow.fi/apple-touch-icon.png",
     "tag": "expandable"
+  },
+  {
+    "url": "https://pudgypenguins.com",
+    "title": "Pudgy Penguins",
+    "icon": "https://pudgypenguins.com/favicon.ico"
   }
 ]
