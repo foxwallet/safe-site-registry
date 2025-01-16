@@ -1215,5 +1215,10 @@
     "url": "https://pudgypenguins.com",
     "title": "Pudgy Penguins",
     "icon": "https://pudgypenguins.com/favicon.ico"
+  },
+  {
+    "url": "https://dynamic.xyz",
+    "title": "Dynamic",
+    "icon": "https://cdn.prod.website-files.com/626692727bba3f384e008e8a/6332ff94e8a7529bdad5aa82_Favicon.png"
   }
 ]
