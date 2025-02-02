@@ -1220,5 +1220,10 @@
     "url": "https://dynamic.xyz",
     "title": "Dynamic",
     "icon": "https://cdn.prod.website-files.com/626692727bba3f384e008e8a/6332ff94e8a7529bdad5aa82_Favicon.png"
+  },
+  {
+    "url": "https://safe.global/",
+    "title": "Ethereum Smart Accounts",
+    "icon": "https://safe.global/favicons/favicon.ico"
   }
 ]
