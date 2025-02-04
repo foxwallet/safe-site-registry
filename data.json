@@ -1230,5 +1230,10 @@
     "url": "https://layeredge.io",
     "title": "LayerEdge",
     "icon": "https://layeredge.io/favicon.ico"
+  },
+  {
+    "title": "AEARN",
+    "url": "https://app.aearn.network/",
+    "icon": "https://app.aearn.network/assets/mobileLogo-DYIXsmbq.svg"
   }
 ]
