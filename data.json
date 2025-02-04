@@ -1225,5 +1225,10 @@
     "url": "https://safe.global/",
     "title": "Ethereum Smart Accounts",
     "icon": "https://safe.global/favicons/favicon.ico"
+  },
+  {
+    "url": "https://layeredge.io",
+    "title": "LayerEdge",
+    "icon": "https://layeredge.io/favicon.ico"
   }
 ]
