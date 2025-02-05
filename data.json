@@ -1230,5 +1230,45 @@
     "url": "https://layeredge.io",
     "title": "LayerEdge",
     "icon": "https://layeredge.io/favicon.ico"
+  },
+  {
+    "url": "https://blumberger.com",
+    "title": "Blumberger Law Firm",
+    "icon": "https://blumberger.com/favicon.ico"
+  },
+  {
+    "url": "https://portals.fi",
+    "title": "Portals.fi",
+    "icon": "https://cdn.prod.website-files.com/657d9f1c8e70fbcb8b5ecd72/663a5aa139582283ec4d23b6_favicon.ico"
+  },
+  {
+    "url": "https://garden.finance",
+    "title": "Garden Finance",
+    "icon": "https://garden.finance/favicon.ico"
+  },
+  {
+    "url": "https://openbisea.com",
+    "title": "OpenBiSea",
+    "icon": "https://res2.weblium.site/res/606b20dca1c3e80021e6a82c/6076b22251c1d20021601baf_optimized"
+  },
+  {
+    "url": "https://eyetech.group",
+    "title": "EyeTech",
+    "icon": "https://eyetech.group/icon.ico?6c2ef44b31ffb863"
+  },
+  {
+    "url": "https://ipor.io",
+    "title": "IPOR Protocol",
+    "icon": "https://ipor.io/android-chrome-512x512.png"
+  },
+  {
+    "url": "https://growthmate.xyz",
+    "title": "GrowthMate",
+    "icon": "https://growthmate.xyz/favicon.ico"
+  },
+  {
+    "url": "https://nest.credit/",
+    "title": "Nest",
+    "icon": "https://cdn.prod.website-files.com/678180183e26922acab22d52/678180183e26922acab22dd8_nest-icon.png"
   }
 ]
