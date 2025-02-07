@@ -1270,5 +1270,15 @@
     "url": "https://nest.credit/",
     "title": "Nest",
     "icon": "https://cdn.prod.website-files.com/678180183e26922acab22d52/678180183e26922acab22dd8_nest-icon.png"
+  },
+  {
+    "url": "https://pkt.cash",
+    "title": "PKT Cash",
+    "icon": "https://pkt.cash/favicon.ico"
+  },
+  {
+    "url": "https://fasttoken.com",
+    "title": "FTN: The Official Cryptocurrency of Fastex",
+    "icon": "https://www.fasttoken.com/fs/userFiles-v2/fasttoken-18750413/images/favicon.png?v=1711441561"
   }
 ]
