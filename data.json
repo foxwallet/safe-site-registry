@@ -1280,5 +1280,11 @@
     "url": "https://fasttoken.com",
     "title": "FTN: The Official Cryptocurrency of Fastex",
     "icon": "https://www.fasttoken.com/fs/userFiles-v2/fasttoken-18750413/images/favicon.png?v=1711441561"
+  },
+  {
+    "url": "https://app.chainport.io",
+    "title": "ChainPort",
+    "icon": "https://app.chainport.io/favicon.ico",
+    "tag": "expandable"
   }
 ]
