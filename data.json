@@ -1286,5 +1286,10 @@
     "title": "ChainPort",
     "icon": "https://app.chainport.io/favicon.ico",
     "tag": "expandable"
+  },
+  {
+    "url": "https://layeredge.io/",
+    "title": "LayerEdge",
+    "icon": "https://www.layeredge.io/favicon.ico"
   }
 ]
